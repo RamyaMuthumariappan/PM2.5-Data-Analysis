@@ -1,0 +1,2 @@
+# PM2.5-Data-Analysis
+Done a Data Analysis on Global PM2.5 Dataset to gather insights. The data is trained using linear regression and Random forest. Then used K Means clustering algorithm to classify the pollution level of countries.  For more details, the notebook contains detailed explanation
