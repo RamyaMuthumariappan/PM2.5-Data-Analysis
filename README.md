@@ -4,3 +4,5 @@ Done a Data Analysis on Global PM2.5 Dataset to gather insights. The data is tra
 Open the python file at google colab
 
 Download the dataset (GlobalPM2.5-V6GL0203-Annual 1998-2023-wThresFrac(2) and upload in google colab
+
+I have also attached research paper regarding the analysis
